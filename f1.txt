@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello pepcoders
  
 hey guys
+=======
+hello
+
+hey guys how are you all?
+>>>>>>> abc
